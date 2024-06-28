@@ -1,0 +1,22 @@
+a: 5
+c: true
+option_selector: option_a
+
+config_class_a:
+  list_a:
+    - list_element_1
+    - list_element_2
+    - list_element_3
+
+config_class_b:
+  - label: config_b_1
+    list_b:
+      - list_element_1
+      - list_element_2
+      - list_element_3
+
+  - label: config_b_2
+    list_b:
+      - list_element_1
+      - list_element_2
+      - list_element_3
